@@ -64,22 +64,16 @@ Après avoir tout validé, vous pouvez utiliser gcc et gdb dans votre PowerShell
      
      
 ### Scripter et automatiser l'analyse avec python
-- diStorm3: pip3 install distorm3 --user
-  Permet de manipuler de code assembleur d'un binaire (désassemblage, ...)
+- diStorm3: **pip3 install distorm3 --user**, permet de manipuler de code assembleur d'un binaire (désassemblage, ...)
   
-- immlib/immutils: vient avec Immunity debugger
-  API python de Immunity debugger
+- immlib/immutils: vient avec Immunity debugger, API python de Immunity debugger
   
 - [pydk](https://githomelab.ru/pykd/pykd): API python de Windbg
   
-- pefile: pip3 install pefile --user
-  Permet de manipuler le format de fichier Windows PE en python
+- pefile: **pip3 install pefile --user**, permet de manipuler le format de fichier Windows PE en python
        
-- gdb: pip3 install gdb --user
-  API python de gdb
+- gdb: **pip3 install gdb --user**, API python de gdb
         
-- r2pipe: pip3 install r2pipe --user
-  API python de Radare2
+- r2pipe: **pip3 install r2pipe --user**, API python de Radare2
     
-- pyelftools: pip3 install pyelftools --user
-  Permet de manipuler le format defichier Linux ELF en python
+- pyelftools: **pip3 install pyelftools --user**, permet de manipuler le format defichier Linux ELF en python
