@@ -12,6 +12,8 @@
     
 - [BinaryNinja](https://binary.ninja/): Version d'essai sinon le logiciel est payant.
 
+- [Ghidra](https://ghidra-sre.org/): Logiciel de reverse opensource de la NSA. 
+
 
 ### Analyse Dynamique
 - gdb: Natif sous linux. Sous Windows, voir la section **Installer MinGW sous Windows**
