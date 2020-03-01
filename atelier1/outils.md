@@ -19,7 +19,7 @@
     
 - [Immunity Debugger](https://www.immunityinc.com/products/debugger/): Seulement sous Windows.
     
-- [Windbg](https://developper.microsoft.com/fr-fr/windows/downloads-10-sdk/): Utilisé pour l'analyse kernel de Windows ou les logiciels 64 bits,
+- [Windbg](https://developer.microsoft.com/fr-fr/windows/downloads/windows-10-sdk/): Utilisé pour l'analyse kernel de Windows ou les logiciels 64 bits,
   plus dur à prendre en main que Immunity Debbuger.
 - [Windbg Workspace add-on](https://www.zachburlingame.com/2011/12/customizing-your-windbg-workspace-and-color-scheme/): Permet d'avoir une interface semblable à Immunity Debbuger.
     
