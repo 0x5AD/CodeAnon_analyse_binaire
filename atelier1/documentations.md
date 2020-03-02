@@ -53,8 +53,3 @@ Vous pensez bien connaitre la fonction printf en C ? Elle vous réserve encore d
 Je n'arrive pas à lancer ce programme avec gdb, il doit y avoir une protection.
 - [Protection ptrace](https://www.root-me.org/fr/Documentation/Cracking/Appel-systeme-ptrace)
 
-
-### App-sys 4
-Cet exercice est bien plus complexe que les précédent, les sources sont disponibles.
-Prenez le temps de bien lire le code et la documentation pour comprendre le bug à exploiter.
-- [Use After Free](https://beta.hackndo.com/use-after-free/)
