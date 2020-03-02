@@ -5,10 +5,10 @@
 - [Cheat sheet pour gdb](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 - [Cheat sheet pour l'assembleur x86](https://trailofbits.github.io/ctf/vulnerabilities/references/X86_Win32_Reverse_Engineering_Cheat_Sheet.pdf)
 
+De plus, pour tout les Exercices de type app-sys, les sources sont disponibles dans le dossier **Exercices**.
 
 ### App-sys 1
 Un BoF (Buffer Overflow) classique pour modifier des valeurs dans la pile.
-Les sources sont disponibles.
 - [Fonctionnement de la pile](https://beta.hackndo.com/stack-introduction/)
 - [BoF classique](https://beta.hackndo.com/buffer-overflow/) (Pas besoin de lire toute la doc pour cet exercice ! Il faut juste comprendre le principe)
 
@@ -20,7 +20,7 @@ Trouvez le mot de passe et montrez-lui.
 
 ### App-sys 2
 Une fonction non utilisé ? Il doit y avoir un moyen de l'éxécuter !
-Je pense avoir trouver un Buffer Overflow dans ce programme, je te donne les sources.
+Je pense avoir trouver un Buffer Overflow dans ce programme.
 - [Documentation pointeurs de fonction en C](https://beta.hackndo.com/c-pointeurs-de-fonction/)
 
 Il est conseillé de désactiver l'aslr pour cet exercice:
