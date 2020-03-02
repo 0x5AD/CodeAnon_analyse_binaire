@@ -8,22 +8,18 @@
 
 ### App-sys 1
 Un BoF (Buffer Overflow) classique pour modifier des valeurs dans la pile.
-
 Les sources sont disponibles.
 - [Fonctionnement de la pile](https://beta.hackndo.com/stack-introduction/)
 - [BoF classique](https://beta.hackndo.com/buffer-overflow/) (Pas besoin de lire toute la doc pour cet exercice ! Il faut juste comprendre le principe)
 
 ### Crackme 1
 Ce programme demande la saisie d'un mot de passe.
-
 Le concépteur ne semble pas connaître les problèmes de sécuriter classique !
-
 Trouvez le mot de passe et montrez-lui.
 
 
 ### App-sys 2
 Une fonction non utilisé ? Il doit y avoir un moyen de l'éxécuter !
-
 Je pense avoir trouver un Buffer Overflow dans ce programme, je te donne les sources.
 - [Documentation pointeurs de fonction en C](https://beta.hackndo.com/c-pointeurs-de-fonction/)
 
