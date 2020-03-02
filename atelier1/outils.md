@@ -79,4 +79,4 @@ Après avoir tout validé, vous pouvez utiliser gcc et gdb dans votre PowerShell
         
 - r2pipe: **pip3 install r2pipe --user**, API python de Radare2
     
-- pyelftools: **pip3 install pyelftools --user**, permet de manipuler le format defichier Linux ELF en python
+- pyelftools: **pip3 install pyelftools --user**, permet de manipuler le format de fichier Linux ELF en python
