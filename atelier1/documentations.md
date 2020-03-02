@@ -14,7 +14,7 @@ Les sources sont disponibles.
 
 ### Crackme 1
 Ce programme demande la saisie d'un mot de passe.
-Le concépteur ne semble pas connaître les problèmes de sécuriter classique !
+Le concépteur ne semble pas connaître les problèmes de sécurité classique !
 Trouvez le mot de passe et montrez-lui.
 
 
@@ -47,6 +47,6 @@ Je n'arrive pas à lancer ce programme avec gdb, il doit y avoir une protection.
 
 
 ### App-sys 4
-Cet exercice est bien plus complexe que les précédent, les sources sont disponibles,
-prenez le temps de bien lire le code et la documentation pour comprendre le bug à exploiter.
+Cet exercice est bien plus complexe que les précédent, les sources sont disponibles.
+Prenez le temps de bien lire le code et la documentation pour comprendre le bug à exploiter.
 - [Use After Free](https://beta.hackndo.com/use-after-free/)
