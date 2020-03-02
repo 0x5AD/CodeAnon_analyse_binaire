@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void decodePass1();
+void decodePass();
 
 int main(){
     int check = 0x04030201;
@@ -18,7 +18,7 @@ int main(){
     }
     else if (check == 0x5AD005AD){
         printf("Good Job !\n");
-        decodePass1();
+        decodePass();
     }
 
     exit(0);
