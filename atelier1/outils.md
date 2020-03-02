@@ -48,7 +48,7 @@
       
      
 ### Installer Mingw sous Windows
-Pour utiliser des programmes comme gcc ou bien gdb sous linux, il est possible d'installer
+Pour utiliser des programmes comme gcc ou bien gdb sous Windows, il est possible d'installer
 mingw qui est est une adaptation des logiciels de développement et de compilation du GNU sous Win32.
 
 Télécharger Mingw installation manager [ici](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe).
