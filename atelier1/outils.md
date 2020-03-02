@@ -51,10 +51,11 @@
 Pour utiliser des programmes comme gcc ou bien gdb sous Windows, il est possible d'installer
 mingw qui est est une adaptation des logiciels de développement et de compilation du GNU sous Win32.
 
-Télécharger Mingw installation manager [ici](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe).
+Télécharger **Mingw installation manager** [ici](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe).
 
 Lancez ensuite l'installateur puis sélectionnez **mingw32-base-bin** et **msys-base-bin**.
-Ensuite dans Installation, faire **Apply Changes**.
+
+Puis dans Installation, faire **Apply Changes**.
 
 Il faut ensuite ajouter Mingw au Path, pour cela:
 - Tapez **variables d'environnement** dans la barre de recherche windows
@@ -66,7 +67,7 @@ Après avoir tout validé, vous pouvez utiliser gcc et gdb dans votre PowerShell
      
      
 ### Scripter et automatiser l'analyse avec python
-- diStorm3: **pip3 install distorm3 --user**, permet de manipuler de code assembleur d'un binaire (désassemblage, ...)
+- diStorm3: **pip3 install distorm3 --user**, permet de manipuler du code assembleur d'un binaire (désassemblage, ...)
   
 - immlib/immutils: vient avec Immunity debugger, API python de Immunity debugger
   
